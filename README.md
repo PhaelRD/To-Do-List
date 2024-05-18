@@ -1,6 +1,8 @@
 To-Do List App
 Este é um aplicativo simples de lista de tarefas (to-do list) que permite adicionar, completar, editar e remover tarefas. O aplicativo é construído usando HTML, CSS e JavaScript, e também faz uso da biblioteca Sortable.js para permitir a reordenação das tarefas por meio de arrastar e soltar.
 
+https://phaelrd.github.io/To-Do-List/
+
 Funcionalidades
 Adicionar Tarefa: Você pode adicionar uma nova tarefa digitando no campo de entrada e pressionando o botão "Add Task".
 
